@@ -1,0 +1,14 @@
+.ball {
+   height: 400px;
+   width: 400px;
+   background: radial-gradient(circle at 150%, rgb(192, 56, 97), pink,black,white);
+   border-radius: 50%;
+}
+
+.ball2 {
+    background: radial-gradient(circle at 90%, pink,red,black);
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    
+}

@@ -1,14 +1,18 @@
 body {
-    background-image:linear-gradient(black, rgba(0, 0, 0, 0)), url(/images/sunset-815270_1280.jpg);
-    ;
-    
-    background-size: cover; 
-    background-repeat: no-repeat;
+   background-color: black;
+   margin: 0;
+   font-size: 20px;color: rgb(250, 248, 248);
+   font-family: sans-serif;
 }
 
 .div1 {
-    background-color: rgba(240, 248, 255, 0.274);
-    margin: 100px;
-    padding: 100px;
-    height: 500px;
+   background:linear-gradient(white, rgba(0,0,0,0),black), url(/images/sunset-815270_1280.jpg);
+   background-position: center;
+   background-size: cover;
+   height: 300px;
+}
+
+main {
+   padding-left: 10vw;
+   width: 60vw;
 }
